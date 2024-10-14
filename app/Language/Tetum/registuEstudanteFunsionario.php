@@ -1,0 +1,11 @@
+<?php
+
+return [
+'estudanteRegistoUrlPortofolio'  => '/Tetum/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/estudanteregisto',
+'aumentaEstudanteRegistoUrlPortfolio' => 'Tetum/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/new/estudanteregisto',
+'trokaEstudanteRegistoUrlPortfolio' => 'Tetum/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/edit/estudanteregisto/',
+'inputEstudanteRegistoUrlPortfolio' => 'Tetum/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/aumenta/estudanteregisto',
+'updateEstudanteRegistoUrlPortfolio' => 'Tetum/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/update/estudanteregisto/',
+'deleteEstudanteRegistoUrlPortfolio' => 'Tetum/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/delete/estudanteregisto',
+
+];

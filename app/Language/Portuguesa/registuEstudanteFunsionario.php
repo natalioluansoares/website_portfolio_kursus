@@ -1,0 +1,11 @@
+<?php
+
+return [
+'estudanteRegistoUrlPortofolio'  => '/Portuguesa/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/estudanteregisto',
+'aumentaEstudanteRegistoUrlPortfolio' => 'Portuguesa/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/new/estudanteregisto',
+'trokaEstudanteRegistoUrlPortfolio' => 'Portuguesa/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/edit/estudanteregisto/',
+'inputEstudanteRegistoUrlPortfolio' => 'Portuguesa/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/aumenta/estudanteregisto',
+'updateEstudanteRegistoUrlPortfolio' => 'Portuguesa/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/update/estudanteregisto/',
+'deleteEstudanteRegistoUrlPortfolio' => 'Portuguesa/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/delete/estudanteregisto',
+
+];

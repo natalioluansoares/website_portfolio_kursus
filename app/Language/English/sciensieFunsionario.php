@@ -1,0 +1,12 @@
+<?php
+
+return [
+'sciensieFunsionarioUrlPortofolio'  => '/English/juryeghvbnmkhc7835fgvhjhcvcge67389fyvghlavcnmzhdye635628fghcliviygaffett524dfccbbv980bjk/sciensiefunsionario',
+'aumentaSciensieFunsionarioUrlPortfolio' => 'English/juryeghvbnmkhc7835fgvhjhcvcge67389fyvghlavcnmzhdye635628fghcliviygaffett524dfccbbv980bjk/new/sciensiefunsionario/',
+'showSciensieFunsionarioUrlPortfolio' => 'English/juryeghvbnmkhc7835fgvhjhcvcge67389fyvghlavcnmzhdye635628fghcliviygaffett524dfccbbv980bjk/show/sciensiefunsionario/',
+'trokaSciensieFunsionarioUrlPortfolio' => 'English/juryeghvbnmkhc7835fgvhjhcvcge67389fyvghlavcnmzhdye635628fghcliviygaffett524dfccbbv980bjk/edit/sciensiefunsionario/',
+'inputSciensieFunsionarioUrlPortfolio' => 'English/juryeghvbnmkhc7835fgvhjhcvcge67389fyvghlavcnmzhdye635628fghcliviygaffett524dfccbbv980bjk/aumenta/sciensiefunsionario',
+'updateSciensieFunsionarioUrlPortfolio' => 'English/juryeghvbnmkhc7835fgvhjhcvcge67389fyvghlavcnmzhdye635628fghcliviygaffett524dfccbbv980bjk/update/sciensiefunsionario/',
+'deleteSciensieFunsionarioUrlPortfolio' => 'English/juryeghvbnmkhc7835fgvhjhcvcge67389fyvghlavcnmzhdye635628fghcliviygaffett524dfccbbv980bjk/delete/sciensiefunsionario',
+
+];

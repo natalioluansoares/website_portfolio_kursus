@@ -1,0 +1,87 @@
+<?php
+return[
+    'horarioFunsionarioUrlPortofolio'  => '/English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/horariofunsionario',
+    'aumentaHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/new/horariofunsionario/',
+    'trokaHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/edit/horariofunsionario/',
+    'showHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/show/horariofunsionario/',
+    'detailHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/detail/horariofunsionario/English/',
+    'processoimageHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/processoimage/horariofunsionario/',
+    'inputHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/aumenta/horariofunsionario',
+    'updateHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/update/horariofunsionario/',
+    'deleteHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/delete/horariofunsionario',
+    
+    'pdfDetailHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/pdfhorarioprofessores/detailhorariofunsionario',
+    'detailHotuHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiopjacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/detailhorariofunsionario',
+    
+    'horarioPortfolioUrlPortofolio'  => '/English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/horarioportfolio',
+    'aumentaHorarioPortfolioUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/new/horarioportfolio/',
+    'trokaHorarioPortfolioUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/edit/horarioportfolio/',
+    'showHorarioPortfolioUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/show/horarioportfolio/',
+    'detailHorarioPortfolioUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/detail/horarioportfolio/English/',
+    'processoimageHorarioPortfolioUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/processoimage/horarioportfolio/',
+    'inputHorarioPortfolioUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/aumenta/horarioportfolio',
+    'updateHorarioPortfolioUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/update/horarioportfolio/',
+    'deleteHorarioPortfolioUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/delete/horarioportfolio',
+    
+    'pdfDetailHorarioProfessoresUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/pdfhorarioprofessores/detailhorarioportfolio',
+    'detailHotuHorarioProfessoresUrlPortfolio' => 'English/gerw453rfdoieywgvchvhvgcvgetcvacgvdvbzcbnjb64773gdygcbhcccbhwy373gdhajcbcbcbbwabcnwfh3y638fg/detailhorarioportfolio',
+
+    'classeHorario'             =>'Room',
+    'materiaMateria'            =>'Science',
+    'hiliClasseHorario'         =>'Select Room',
+    'hiliMateriaMateria'        =>'Select Science',
+
+    'loronHorario'              =>'Day',
+    'hiliLoronHorario'          =>'Select Day',
+    'segundaHorario'            =>'Monday',
+    'tercaHorario'              =>'Tuesday',
+    'quartaHorario'             =>'Wednesday',
+    'kodeMateria'               =>'ScienceCode',
+    'quintaHorario'             =>'Thursday',
+    'sextaHorario'              =>'Friday',
+    'sabadoHorario'             =>'Saturday',
+    
+    'tempoHorario'              =>'CourseTime',
+    'hiliTempoHorario'          =>'Select Course Time',
+    'kompletoHorario'           =>'Full Time',
+    'semanaIIHorario'            =>'Twice A Week',
+    'semanaIIIHorario'          =>'Three Times A Week',
+    'semanaIVHorario'           =>'Four Times A Week',
+
+    'orasHahuHorario'           =>'TimeStart',
+    'orasRemataHorario'         =>'TimeFinish',
+    'hiliOsanHorario'           =>'Select Money',
+    'osanHorario'               =>'Money',
+
+    'dataHahuHorario'           =>'CourseStartDate',
+    'dataHahuHorario'           =>'CourseStartDate',
+    'dataRemataHorario'         =>'CourseCompletionDate',
+    'totalEstudanteHorario'     =>'TotalStudents',
+    'estudanteHorario'          =>'Students',
+    'hiliestudanteHorario'          =>'Select Students',
+    'dataMateria'               =>'CourseDate',
+    'horasMateria'               =>'Time',
+    'levelMateria'              =>'TeachingLevel',
+    'preparasaunMateria'        =>'SciensePreparation',
+    'ihaOnaMateria'             =>'This Course Already Exists...Please Enter Other Courses',
+    'hamosMateria'              =>'Delete',
+    'trokaMateria'              =>'Update',
+    'detailMateria'              =>'Details',
+    'valueMateria'              =>'ValueDetails',
+    'trabalhoMateria'           =>'HomeworkDetails',
+    'soalMateria'               =>'ExamQuestions',
+    'valueMateria'               =>'Value',
+    'detailsvalueMateria'       =>'DetailsValue',
+    'inputvalueMateria'       =>'InputValue',
+
+    'materiaValidation'             =>'Sciense Still Empty',
+    'materiaProfessoresValidation'  =>'Teacher Name Still Empty',
+    'kodeValidation'                =>'Sciense Code Still Empty',
+    'levelValidation'               =>'Level Sciense Still Empty',
+    'preparasaunValidation'         =>'Sciense Preparation Still Empty',
+    'dataValidation'                =>'Date Still Empty',
+
+    
+
+];
+?>

@@ -1,0 +1,51 @@
+<?php
+return[
+    // Link
+    'materiaUrlPortfolio'                       => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/materia/English/',
+    'aumentaMateriaUrlPortfolio'                => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/new/materia',
+    'trokaMateriaUrlPortfolio'                  => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/edit/materia/English/',
+    'hamosMateriaUrlPortfolio'                  => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/hamos/materia/English/',
+    'inputMateriaUrlPortfolio'                  => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/create/materia',
+    'updateMateriaUrlPortfolio'                 => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/update/materia/',
+    'detailMateriaUrlPortfolio'                 => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/show/materia/',
+    'deleteMateriaUrlPortfolio'                 => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/delete/materia/',
+    'hamoshotutemporarioMateriaUrlPortfolio'    => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/hamoshotutemporario/materia',
+    'temporarioMateriaUrlPortfolio'             => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/temporario/materia',
+    'permanenteMateriaUrlPortfolio'             => 'English/jkd34kjghe6twyu8934rfsvbamke90tey90/permanente/materia',
+
+    'hiliCategorioMateria'      =>'Select Category',
+    'categorioMateria'          =>'Category',
+    'youtubeMateria'            =>'Youtube',
+    'facebookMateria'           =>'Facebook',
+    'instagramMateria'          =>'Instagram',
+    'tiktokMateria'             =>'TikTok',
+    'sourceMateria'             =>'Source Code',
+    'materiaMateria'            =>'Science Descristion',
+    'tituloMateria'             =>'Science Title',
+    'dataMateria'               =>'Date',
+    'temporarioMateria'         => 'Delete Temporary Data',
+    'hamosValidation'           => 'Experience Data Has Been Successfully Deleted',
+    'detailMaterialPortfolio'   => 'Experience Details',
+    'hiliLianMaterialPortfolio' => 'Select Language',
+    'lianMPortfolio'            => 'Language',
+    'lianMaterialPortfolio'     => 'English',
+
+    // Validation
+    'categorioValidation'           =>'Category Still Empty',
+    'youtubeValidation'             =>'Youtube Still Empty',
+    'facebookValidation'            =>'Facebook Still Empty',
+    'instagramValidation'           =>'Instagram Still Empty',
+    'tiktokValidation'              =>'TikTok Still Empty',
+    'materiaValidation'             =>'Science Descristion Still Empty',
+    'tituloValidation'              =>'Science Title Still Empty',
+    'dataValidation'                =>'Data Still Empty',
+    'lianValidation'                =>'Language Still Empty',
+    'errorValidation'               =>'Science Data Still Wrong',
+    'successValidation'             =>'Science Data Saved Successfully',
+    'ihaTituloValidation'           => 'Science Title Data Already Exists...Please Enter Other Science Title Data.',
+    'ihaMateriaValidation'          => 'Science Data Already Exists...Please Enter Other Science Data.',
+    'bukaValidation'                => 'The Data You Are Looking For Does Not Exist... Please Look For Other Data',
+    'hamosValidation'               => 'Science Data Has Been Successfully Deleted',
+
+];
+?>

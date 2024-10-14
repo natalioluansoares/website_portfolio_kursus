@@ -1,0 +1,52 @@
+<?php
+return[
+    // Link
+    'materiaUrlPortfolio'                       => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/materia/Portuguesa/',
+    'aumentaMateriaUrlPortfolio'                => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/new/materia',
+    'trokaMateriaUrlPortfolio'                  => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/edit/materia/',
+    'hamosMateriaUrlPortfolio'                  => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/hamos/materia/Portuguesa/',
+    'inputMateriaUrlPortfolio'                  => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/create/materia',
+    'updateMateriaUrlPortfolio'                 => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/update/materia/',
+    'detailMateriaUrlPortfolio'                 => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/show/materia/',
+    'deleteMateriaUrlPortfolio'                 => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/delete/materia/',
+    'hamoshotutemporarioMateriaUrlPortfolio'    => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/hamoshotutemporario/materia',
+    'temporarioMateriaUrlPortfolio'             => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/temporario/materia/',
+    'permanenteMateriaUrlPortfolio'             => 'Portuguesa/jkd34kjghe6twyu8934rfsvbamke90tey90/permanente/materia/',
+
+    'hiliCategorioMateria'      =>'Selecione A Categoria',
+    'categorioMateria'          =>'Categoria',
+    'youtubeMateria'            =>'Youtube',
+    'facebookMateria'           =>'Facebook',
+    'instagramMateria'          =>'Instagram',
+    'tiktokMateria'             =>'TikTok',
+    'sourceMateria'             =>'Source Code',
+    'messageMateria'             =>'Esses Dados Podem Ser Preenchidos E Vice-Versa',
+    'materiaMateria'            =>'Ciência',
+    'tituloMateria'             =>'Título De Ciência',
+    'dataMateria'               =>'Data',
+    'temporarioMateria'         => 'Excluir Dados Temporários',
+    'hamosValidation'           => 'Os Dados De Experiência Foram Excluídos Com Sucesso',
+    'detailMaterialPortfolio'   => 'Detalhes Da Experiência',
+    'hiliLianMaterialPortfolio' => 'Selecione O Idioma',
+    'lianMPortfolio'            => 'Lingua',
+    'lianMaterialPortfolio'     => 'Portuguesa',                       
+
+    // Validation
+    'categorioValidation'           =>'Categoria Ainda Vazia',
+    'youtubeValidation'             =>'Youtube Ainda Vazia',
+    'facebookValidation'            =>'Facebook Ainda Vazia',
+    'instagramValidation'           =>'Instagram Ainda Vazia',
+    'tiktokValidation'              =>'TikTok Ainda Vazia',
+    'materiaValidation'             =>'Ciência Ainda Vazia',
+    'tituloValidation'              =>'Título Científico Ainda Vazio',
+    'dataValidation'                =>'Data Ainda Vazia',
+    'lianValidation'                =>'Liagua Ainda Vazia',
+    'errorValidation'               =>'Dados Científicos Ainda Errados',
+    'successValidation'             =>'Dados Científicos Salvos Com Sucesso',
+    'ihaTituloValidation'           => 'Os Dados Do Título Científico Já Existem...Insira Outros Dados Do Título Científico.',
+    'ihaMateriaValidation'          => 'Dados Científicos Já Existem...Insira Outros Dados Científicos.',
+    'bukaValidation'                => 'Os Dados Que Você Procura Não Existem... Procure Outros Dados',
+    'hamosValidation'               => 'Dados Científicos Foram Excluídos Com Sucesso',                                       
+
+];
+?>

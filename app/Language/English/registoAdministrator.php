@@ -1,0 +1,82 @@
+<?php 
+return [
+    // Input
+    'registoUrlConta'                               => 'English/sedfedwdjakajkjjka3467d2b/accountportfolio',
+    'aumentaRegistoUrlConta'                        => 'English/sedfedwdjakajkjjka3467d2b/new/accountportfolio',
+    'trokaRegistoUrlConta'                          => 'English/sedfedwdjakajkjjka3467d2b/edit/accountportfolio/',
+    'updateRegistoUrlConta'                         => 'English/sedfedwdjakajkjjka3467d2b/update/accountportfolio/',
+    'imageRegistoUrlConta'                          => 'English/sedfedwdjakajkjjka3467d2b/image/accountportfolio/',
+    'processoImageRegistoUrlConta'                  => 'English/sedfedwdjakajkjjka3467d2b/processoimage/accountportfolio/',
+    'adicionarRegistoUrlConta'                      => 'English/sedfedwdjakajkjjka3467d2b/create/accountportfolio',
+    'hamosRegistoUrlConta'                          => 'English/sedfedwdjakajkjjka3467d2b/hamos/accountportfolio',
+    'deleteRegistoUrlConta'                         => 'English/sedfedwdjakajkjjka3467d2b/delete/accountportfolio',
+    'hamoshotutemporarioAdministratorUrlPortfolio'  => 'English/sedfedwdjakajkjjka3467d2b/hamoshotutemporario/accountportfolio',
+    'temporarioAdministratorUrlPortfolio'           => 'English/sedfedwdjakajkjjka3467d2b/temporario/accountportfolio',
+    'permanenteAdministratorUrlPortfolio'           => 'English/sedfedwdjakajkjjka3467d2b/permanente/accountportfolio',
+
+    // Input
+
+    'lastNameAdministrator'         =>'Last Name',
+    'firstNameAdministrator'        =>'First Name',
+    'fullNameAdministrator'         =>'Full Name',
+    'emailAdministrator'            =>'Email',
+    'passwordAdministrator'         =>'Password',
+    'confPasswordAdministrator'     =>'Confirm Password',
+    'numeroTelefoneAdministrator'   =>'Phone Number(Whatsapp)',
+    'numeroEleituralAdministrator'  =>'Resident Identity Card Number',
+    'subAdministrator'              =>'Id Card, Passport',
+    'loronMorisAdministrator'       =>'Date Of Birth',
+    'fatinMorisAdministrator'       =>'Place Of Birth',
+    'sexoAdministrator'             =>'Gender',
+    'hiliSexoAdministrator'         =>'Select Gender',
+    'maneAdministrator'             =>'Male',
+    'fetoAdministrator'             =>'Female',
+    'statusServisuAdministrator'    =>'Working Status',
+    'hiliStatusServisuAdministrator'=>'Select Working Status',
+    'aktivoServisuAdministrator'    =>'Active',
+    'laAktivoServisuAdministrator'  =>'Inactive',
+    'sistemaAdministratorPortfolio' =>'System Administrator',
+    'hiliSistemaAdministratorPortfolio' =>'Select System Administrator',
+    'imageSistemaAdministratorPortfolio' =>'Administrator image',
+    'imageAdministratorPortfolio' =>'Image',
+    'imageUpdatePortfolio' =>'Update Image',
+
+    // Validation
+
+    'primeiroValidation'            =>'First Name Still Blank',
+    'ikusValidation'                =>'Last Name Still Blank',
+    'KompletoValidation'            =>'Full Name Still Blank',
+    'ihaKompletoValidation'         =>'Full Name Available',
+    'ihaEmailValidation'            =>'Email Still Empty',
+    'passwordValidation'            =>'Password Still Blank',
+    'confPasswordValidation'        =>'Password And Confirmation Are Not The Same',
+    'jeneroValidation'              =>'Gender Still Blank',
+    'loronValidation'               =>'Date Of Birth Still Blank',
+    'fatinValidation'               =>'Place of Birth Still Empty',
+    'statusValidation'              =>'Service Status Still Empty',
+    'whatsappValidation'            =>'Whatsapp Number Still Empty',
+    'eleituralValidation'           =>'Resident Identification Card Number Is Still Blank',
+    'sistemaValidation'             =>'System Administrator Is Still Blank',
+    'hamosValidation'            => 'System Data Has Been Successfully Deleted',
+    'bukaValidation'            => 'The Data You Are Looking For Does Not Exist... Please Look For Other Data',
+    // Table
+
+    'fullNamePortfolio'         =>'FullName',
+    'emailPortfolio'            =>'Email',
+    'passwordPortfolio'         =>'Password',
+    'numeroTelefonePortfolio'   =>'PhoneNumber',
+    'numeroEleituralPortfolio'  =>'ResidentICN',
+    'sexoPortfolio'             =>'Gender',
+    'statusServisuPortfolio'    =>'Status',
+    'sistemaPortfolio'          =>'System',
+    'datePortfolio'             =>'Date',
+    'imagePortfolio'             =>'Image',
+    'updatePortfolio'           =>'Update',
+    'deletePortfolio'           =>'Delete',
+
+    'successValidation'         => 'Data Saved Successfully',
+    'errorValidation'           => 'Data Not Saved Successfully',
+
+    'hamosAdministratorRegistoPortfolio'  =>'Delete Temporary Data',
+];
+?>

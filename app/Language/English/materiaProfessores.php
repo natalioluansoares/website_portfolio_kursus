@@ -1,0 +1,45 @@
+<?php
+return[
+    'materiaProfessoresUrlPortfolio'                       => 'English/djryhcgkoshjeu73tfuiopnhet4874yrgfybgiudgcvhnll784gfywvchjheft6evchjnbxget6478fgvualpirhvbj/materiaprofessores',
+    'aumentaMateriaProfessoresUrlPortfolio'                => 'English/djryhcgkoshjeu73tfuiopnhet4874yrgfybgiudgcvhnll784gfywvchjheft6evchjnbxget6478fgvualpirhvbj/new/materiaprofessores/',
+    'trokaMateriaProfessoresUrlPortfolio'                  => 'English/djryhcgkoshjeu73tfuiopnhet4874yrgfybgiudgcvhnll784gfywvchjheft6evchjnbxget6478fgvualpirhvbj/edit/materiaprofessores/',
+    'preparasaunMateriaProfessoresUrlPortfolio'            => 'English/djryhcgkoshjeu73tfuiopnhet4874yrgfybgiudgcvhnll784gfywvchjheft6evchjnbxget6478fgvualpirhvbj/preparasaun/materiaprofessores/',
+    'inputMateriaProfessoresUrlPortfolio'                  => 'English/djryhcgkoshjeu73tfuiopnhet4874yrgfybgiudgcvhnll784gfywvchjheft6evchjnbxget6478fgvualpirhvbj/aumenta/materiaprofessores',
+    'updateMateriaProfessoresUrlPortfolio'                 => 'English/djryhcgkoshjeu73tfuiopnhet4874yrgfybgiudgcvhnll784gfywvchjheft6evchjnbxget6478fgvualpirhvbj/update/materiaprofessores/',
+    'detailMateriaProfessoresUrlPortfolio'                 => 'English/djryhcgkoshjeu73tfuiopnhet4874yrgfybgiudgcvhnll784gfywvchjheft6evchjnbxget6478fgvualpirhvbj/show/materiaprofessores/',
+    'deleteMateriaProfessoresUrlPortfolio'                 => 'English/djryhcgkoshjeu73tfuiopnhet4874yrgfybgiudgcvhnll784gfywvchjheft6evchjnbxget6478fgvualpirhvbj/delete/materiaprofessores',
+    
+    'materiaProfessoresPortfolioUrlPortfolio'                       => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/materiaprofessoresportfolio',
+    'aumentaMateriaProfessoresPortfolioUrlPortfolio'                => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/new/materiaprofessoresportfolio/',
+    'trokaMateriaProfessoresPortfolioUrlPortfolio'                  => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/edit/materiaprofessoresportfolio/',
+    'hamosMateriaProfessoresPortfolioUrlPortfolio'                  => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/show/materiaprofessoresportfolio/',
+    'preparasaunMateriaProfessoresPortfolioUrlPortfolio'            => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/preparasaun/materiaprofessoresportfolio/',
+    'inputMateriaProfessoresPortfolioUrlPortfolio'                  => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/aumenta/materiaprofessoresportfolio',
+    'updateMateriaProfessoresPortfolioUrlPortfolio'                 => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/update/materiaprofessoresportfolio/',
+    'detailMateriaProfessoresPortfolioUrlPortfolio'                 => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/detail/materiaprofessoresportfolio/',
+    'deleteMateriaProfessoresPortfolioUrlPortfolio'                 => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/delete/materiaprofessoresportfolio',
+    'hamoshotutemporarioMateriaProfessoresPortfolioUrlPortfolio'    => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/hamoshotutemporario/materiaprofessoresportfolio',
+    'temporarioMateriaProfessoresPortfolioUrlPortfolio'             => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/temporario/materiaprofessoresportfolio',
+    'permanenteMateriaProfessoresPortfolioUrlPortfolio'             => 'English/hhryuwchyegcvyywer6cvhjyuey278ag39hcbjku387dgjavmavxgaft356dfgat378dtgvabvdyuqo90uehdgayyt67/permanente/materiaprofessoresportfolio',
+
+
+    'hiliMateriaMateria'        =>'Select Science',
+    'materiaMateria'            =>'Science',
+    'materiaProfessores'        =>'TeacherName',
+    'kodeMateria'               =>'ScienceCode',
+    'dataMateria'               =>'Date',
+    'osanMateria'               =>'Money',
+    'levelMateria'              =>'TeachingLevel',
+    'preparasaunMateria'        =>'SciensePreparation',
+    'hamosMateria'              =>'Delete',
+    'trokaMateria'              =>'Update',
+    'temporarioMateria'         => 'Delete Temporary Data',
+
+    'materiaValidation'             =>'Sciense Still Empty',
+    'materiaProfessoresValidation'  =>'Teacher Name Still Empty',
+    'kodeValidation'                =>'Sciense Code Still Empty',
+    'levelValidation'               =>'Level Sciense Still Empty',
+    'preparasaunValidation'         =>'Sciense Preparation Still Empty',
+    'dataValidation'                =>'Date Still Empty',
+];
+?>

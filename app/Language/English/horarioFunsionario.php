@@ -1,0 +1,15 @@
+<?php
+
+return [
+'horarioFunsionarioUrlPortofolio'  => '/English/djryhcgkoshjeu73tfuiop;jacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/horariofunsionario',
+'aumentaHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiop;jacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/new/horariofunsionario',
+'trokaHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiop;jacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/edit/horariofunsionario/',
+'imageHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiop;jacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/image/horariofunsionario/',
+'processoimageHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiop;jacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/processoimage/horariofunsionario/',
+'inputHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiop;jacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/aumenta/horariofunsionario',
+'updateHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiop;jacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/update/horariofunsionario/',
+'deleteHorarioFunsionarioUrlPortfolio' => 'English/djryhcgkoshjeu73tfuiop;jacvxnmmcb35reygcjehc6389fybvhblskfaczyw62llbegy677eufghvvttwuiovkgje/delete/horariofunsionario',
+
+
+
+];

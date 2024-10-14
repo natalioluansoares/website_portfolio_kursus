@@ -1,0 +1,11 @@
+<?php
+
+return [
+'estudanteRegistoUrlPortofolio'  => '/Indonesia/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/estudanteregisto',
+'aumentaEstudanteRegistoUrlPortfolio' => 'Indonesia/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/new/estudanteregisto',
+'trokaEstudanteRegistoUrlPortfolio' => 'Indonesia/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/edit/estudanteregisto/',
+'inputEstudanteRegistoUrlPortfolio' => 'Indonesia/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/aumenta/estudanteregisto',
+'updateEstudanteRegistoUrlPortfolio' => 'Indonesia/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/update/estudanteregisto/',
+'deleteEstudanteRegistoUrlPortfolio' => 'Indonesia/gdhy748fgbcvd536fhuvbvkblpf095hfbvhfuruvbiog48903ythfswbvlghi5ygjskghvkslnvnr78vmkdg45zvg/delete/estudanteregisto',
+
+];

@@ -1,0 +1,52 @@
+<?php
+return[
+    // Link
+    'materiaUrlPortfolio'                       => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/materia/Tetum/',
+    'aumentaMateriaUrlPortfolio'                => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/new/materia',
+    'trokaMateriaUrlPortfolio'                  => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/edit/materia/',
+    'hamosMateriaUrlPortfolio'                  => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/hamos/materia/Tetum/',
+    'inputMateriaUrlPortfolio'                  => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/create/materia',
+    'updateMateriaUrlPortfolio'                 => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/update/materia/',
+    'detailMateriaUrlPortfolio'                 => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/show/materia/',
+    'deleteMateriaUrlPortfolio'                 => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/delete/materia/',
+    'hamoshotutemporarioMateriaUrlPortfolio'    => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/hamoshotutemporario/materia',
+    'temporarioMateriaUrlPortfolio'             => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/temporario/materia/',
+    'permanenteMateriaUrlPortfolio'             => 'Tetum/jkd34kjghe6twyu8934rfsvbamke90tey90/permanente/materia/',
+
+    'hiliCategorioMateria'      =>'Hili Kategoria',
+    'categorioMateria'          =>'Kategoria',
+    'youtubeMateria'            =>'Youtube',
+    'facebookMateria'           =>'Facebook',
+    'instagramMateria'          =>'Instagram',
+    'tiktokMateria'             =>'TikTok',
+    'sourceMateria'             =>'Source Kodigu',
+    'messageMateria'             =>'Dados Ne Bele Hatama Ka Labele Hatama',
+    'materiaMateria'            =>'siensia',
+    'tituloMateria'             =>'Título Siensia',
+    'dataMateria'               =>'Data',
+    'temporarioMateria'         => 'Hamos Dados Temporario',
+    'hamosValidation'           => 'Dados Siensia Hamos Ho Susesu',
+    'detailMaterialPortfolio'   => 'Detalio Siensia',
+    'hiliLianMaterialPortfolio' => 'Hili Lian',
+    'lianMPortfolio'            => 'Lian',
+    'lianMaterialPortfolio'     => 'Tetum',                       
+
+    // Validation
+    'categorioValidation'           =>'Kategorio Sei Mamuk',
+    'youtubeValidation'             =>'Youtube Sei Mamuk',
+    'facebookValidation'            =>'Facebook Sei Mamuk',
+    'instagramValidation'           =>'Instagram Sei Mamuk',
+    'tiktokValidation'              =>'TikTok Sei Mamuk',
+    'materiaValidation'             =>'Siensia Sei Mamuk',
+    'tituloValidation'              =>'Título Siensia Sei Mamuk',
+    'dataValidation'                =>'Data Sei Mamuk',
+    'lianValidation'                =>'Lian Sei Mamuk',
+    'successValidation'             => 'Dados Aumenta Ho Suseso',
+    'errorValidation'               => 'Dados Aumenta La Suseso',
+    'ihaTituloValidation'           => 'Tiluto Siensia Iha Tiha Ona.... Ajuda Hatama Titulo Siensia Seluk',
+    'ihaMateriaValidation'          => 'Siensia Iha Tiha Ona.... Ajuda Hatama Siensia Seluk',
+    'bukaValidation'                => 'Dados Nebe Ita Buka La Iha... Ajuda Buka Dados Seluk',
+    'hamosValidation'               => 'Dados Siensia Susesu Hamos',                                       
+
+];
+?>

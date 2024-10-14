@@ -1,0 +1,50 @@
+<?php
+return[
+    // Link
+    'materiaUrlPortfolio'                       => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/materia/Indonesia/',
+    'aumentaMateriaUrlPortfolio'                => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/new/materia',
+    'trokaMateriaUrlPortfolio'                  => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/edit/materia/',
+    'hamosMateriaUrlPortfolio'                  => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/hamos/materia/Indonesia/',
+    'inputMateriaUrlPortfolio'                  => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/create/materia',
+    'updateMateriaUrlPortfolio'                 => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/update/materia/',
+    'detailMateriaUrlPortfolio'                 => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/show/materia/',
+    'deleteMateriaUrlPortfolio'                 => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/delete/materia/',
+    'hamoshotutemporarioMateriaUrlPortfolio'    => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/hamoshotutemporario/materia',
+    'temporarioMateriaUrlPortfolio'             => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/temporario/materia/',
+    'permanenteMateriaUrlPortfolio'             => 'Indonesia/jkd34kjghe6twyu8934rfsvbamke90tey90/permanente/materia/',
+
+    'hiliCategorioMateria'      =>'Pilih Categori',
+    'categorioMateria'          =>'Categori',
+    'youtubeMateria'            =>'Youtube',
+    'facebookMateria'           =>'Facebook',
+    'instagramMateria'          =>'Instagram',
+    'tiktokMateria'             =>'TikTok',
+    'sourceMateria'             =>'Source Code',
+    'messageMateria'             =>'Data Ini Dapat Diisi Dan Sebaliknya',
+    'materiaMateria'            =>'Ilmu',
+    'tituloMateria'             =>'Judul Ilmu',
+    'dataMateria'               =>'Tanggal',
+    'temporarioMateria'         => 'Hapus Data Temporari',
+    'hamosValidation'           => 'Data Ilmu Sudah Berhasil Dihapus',
+    'hiliLianMaterialPortfolio' => 'Pilih  Bahasa',
+    'lianMPortfolio'            => 'Bahasa',
+    'lianMaterialPortfolio'     => 'Indonesia',
+
+    // Validation
+    'categorioValidation'           =>'Kategori Masih Kosong',
+    'youtubeValidation'             =>'Youtube Masih Kosong',
+    'facebookValidation'            =>'Facebook Masih Kosong',
+    'instagramValidation'           =>'Instagram Masih Konsong',
+    'tiktokValidation'              =>'TikTok Masih Konsong',
+    'materiaValidation'             =>'Science Masih Konsong',
+    'tituloValidation'              =>'Judul Ilmu Masih Kosong',
+    'dataValidation'                =>'Tanggal Masih Kosong',
+    'lianValidation'                =>'Bahasa Masih Kosong',
+    'errorValidation'               =>'Data Sains Masih Salah',
+    'successValidation'             =>'Data Sains Berhasil Disimpan',
+    'ihaTituloValidation'           => 'Data Judul Ilmiah Sudah Ada...Silahkan Masukkan Data Judul Ilmiah Lainnya.',
+    'ihaMateriaValidation'          => 'Data Sains Sudah Ada...Silakan Masukkan Data Sains Lainnya.',
+    'bukaValidation'                => 'Data Yang Anda Cari Tidak Ada... Silakan Cari Data Lainnya',
+
+];
+?>

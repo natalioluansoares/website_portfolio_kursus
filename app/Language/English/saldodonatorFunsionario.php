@@ -1,0 +1,13 @@
+<?php
+
+return [
+'saldoDonatorFunsionarioUrlPortofolio'  => '/English/iei8847fu7674gfbckdolpdjjdev4563782egdvy4sre35ts63hvhdsctey464gfvhedetrfetyryfw7457/saldodonatorfunsionario',
+'saldoDonatorFunsionarioShowUrlPortofolio'  => '/English/iei8847fu7674gfbckdolpdjjdev4563782egdvy4sre35ts63hvhdsctey464gfvhedetrfetyryfw7457/show/saldodonatorfunsionario/',
+
+'aumentaDonatorFunsionarioTamaUrlPortfolio' => 'English/iei8847fu7674gfbckdolpdjjdev4563782egdvy4sre35ts63hvhdsctey464gfvhedetrfetyryfw7457/new/saldodonatorfunsionario/',
+'trokaDonatorFunsionarioTamaUrlPortfolio' => 'English/iei8847fu7674gfbckdolpdjjdev4563782egdvy4sre35ts63hvhdsctey464gfvhedetrfetyryfw7457/edit/saldodonatorfunsionario/',
+'inputDonatorFunsionarioTamaUrlPortfolio' => 'English/iei8847fu7674gfbckdolpdjjdev4563782egdvy4sre35ts63hvhdsctey464gfvhedetrfetyryfw7457/aumenta/saldodonatorfunsionario',
+'updateDonatorFunsionarioTamaUrlPortfolio' => 'English/iei8847fu7674gfbckdolpdjjdev4563782egdvy4sre35ts63hvhdsctey464gfvhedetrfetyryfw7457/update/saldodonatorfunsionario/',
+'deleteDonatorFunsionarioTamaUrlPortfolio' => 'English/iei8847fu7674gfbckdolpdjjdev4563782egdvy4sre35ts63hvhdsctey464gfvhedetrfetyryfw7457/delete/saldodonatorfunsionario',
+
+];

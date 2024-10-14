@@ -1,0 +1,83 @@
+<?php 
+return [
+    // Input
+    'registoUrlConta'                               => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/accountestudante',
+    'aumentaRegistoUrlConta'                        => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/new/accountestudante',
+    'trokaRegistoUrlConta'                          => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/edit/accountestudante/',
+    'updateRegistoUrlConta'                         => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/update/accountestudante/',
+    'imageRegistoUrlConta'                          => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/image/accountestudante/',
+    'processoImageRegistoUrlConta'                  => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/processoimage/accountestudante/',
+    'adicionarRegistoUrlConta'                      => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/create/accountestudante',
+    'hamosRegistoUrlConta'                          => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/hamos/accountestudante',
+    'deleteRegistoUrlConta'                         => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/delete/accountestudante',
+    'hamoshotutemporarioestudanteUrlPortfolio'      => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/hamoshotutemporario/accountestudante',
+    'temporarioestudanteUrlPortfolio'               => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/temporario/accountestudante',
+    'permanenteestudanteUrlPortfolio'               => 'English/jeytuahiori8479276490yrukjjsgiih89470javgwpqm894twgjkshb35k09873h/permanente/accountestudante',
+
+    // Input
+
+    'lastNameestudante'         =>'Last Name',
+    'firstNameestudante'        =>'First Name',
+    'fullNameestudante'         =>'Full Name',
+    'emailestudante'            =>'Email',
+    'passwordestudante'         =>'Password',
+    'confPasswordestudante'     =>'Confirm Password',
+    'numeroTelefoneestudante'   =>'Phone Number',
+    'numeroEleituralestudante'  =>'Resident Identity Card Number',
+    'subestudante'              =>'Id Card, Passport',
+    'loronMorisestudante'       =>'Date Of Birth',
+    'fatinMorisestudante'       =>'Place Of Birth',
+    'sexoestudante'             =>'Gender',
+    'hiliSexoestudante'         =>'Select Gender',
+    'maneestudante'             =>'Male',
+    'fetoestudante'             =>'Female',
+    'statusServisuestudante'    =>'Working Status',
+    'hiliStatusServisuestudante'=>'Select Working Status',
+    'aktivoServisuestudante'    =>'Active',
+    'laAktivoServisuestudante'  =>'Inactive',
+    'sistemaestudantePortfolio' =>'System estudante',
+    'hiliSistemaestudantePortfolio' =>'Select System estudante',
+    'imageSistemaestudantePortfolio' =>'Student Image',
+    'imageestudantePortfolio' =>'Image',
+    'imageUpdatePortfolio' =>'Update Image',
+
+    // Validation
+
+    'primeiroValidation'            =>'First Name Still Blank',
+    'ikusValidation'                =>'Last Name Still Blank',
+    'kompletoValidation'            =>'Full Name Still Blank',
+    'ihaKompletoValidation'         =>'Full Name Available',
+    'ihaEmailValidation'            =>'Email Still Empty',
+    'passwordValidation'            =>'Password Still Blank',
+    'confPasswordValidation'        =>'Password And Confirmation Are Not The Same',
+    'jeneroValidation'              =>'Gender Still Blank',
+    'loronValidation'               =>'Date Of Birth Still Blank',
+    'fatinValidation'               =>'Place of Birth Still Empty',
+    'statusValidation'              =>'Service Status Still Empty',
+    'whatsappValidation'            =>'Whatsapp Number Still Empty',
+    'dateValidation'            =>'Date Of Register Still Empty',
+    'eleituralValidation'           =>'Resident Identification Card Number Is Still Blank',
+    'sistemaValidation'             =>'System Estudante Is Still Blank',
+    'hamosValidation'            => 'System Data Has Been Successfully Deleted',
+    'bukaValidation'            => 'The Data You Are Looking For Does Not Exist... Please Look For Other Data',
+    // Table
+
+    'fullNamePortfolio'         =>'FullName',
+    'emailPortfolio'            =>'Email',
+    'passwordPortfolio'         =>'Password',
+    'numeroTelefonePortfolio'   =>'PhoneNumber',
+    'numeroEleituralPortfolio'  =>'ResidentICN',
+    'sexoPortfolio'             =>'Gender',
+    'statusServisuPortfolio'    =>'Status',
+    'sistemaPortfolio'          =>'System',
+    'datePortfolio'             =>'Date',
+    'imagePortfolio'             =>'Image',
+    'updatePortfolio'           =>'Update',
+    'deletePortfolio'           =>'Delete',
+
+    'successValidation'         => 'Data Saved Successfully',
+    'errorValidation'           => 'Data Not Saved Successfully',
+
+    'hamosestudanteRegistoPortfolio'  =>'Delete Temporary Data',
+];
+?>

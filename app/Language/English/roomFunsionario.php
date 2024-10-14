@@ -1,0 +1,13 @@
+<?php
+
+return [
+'roomFunsionarioUrlPortofolio'  => '/English/heyicbnmdbhulpiwf5648fyhbvjkbjvue7abklry947fgjbbvbjkfiury763gwufovbcngvsmvbie478893865385ue/roomfunsionario',
+'aumentaRoomFunsionarioUrlPortfolio' => 'English/heyicbnmdbhulpiwf5648fyhbvjkbjvue7abklry947fgjbbvbjkfiury763gwufovbcngvsmvbie478893865385ue/new/roomfunsionario',
+'trokaRoomFunsionarioUrlPortfolio' => 'English/heyicbnmdbhulpiwf5648fyhbvjkbjvue7abklry947fgjbbvbjkfiury763gwufovbcngvsmvbie478893865385ue/edit/roomfunsionario/',
+'imageRoomFunsionarioUrlPortfolio' => 'English/heyicbnmdbhulpiwf5648fyhbvjkbjvue7abklry947fgjbbvbjkfiury763gwufovbcngvsmvbie478893865385ue/image/roomfunsionario/',
+'processoimageRoomFunsionarioUrlPortfolio' => 'English/heyicbnmdbhulpiwf5648fyhbvjkbjvue7abklry947fgjbbvbjkfiury763gwufovbcngvsmvbie478893865385ue/processoimage/roomfunsionario/',
+'inputRoomFunsionarioUrlPortfolio' => 'English/heyicbnmdbhulpiwf5648fyhbvjkbjvue7abklry947fgjbbvbjkfiury763gwufovbcngvsmvbie478893865385ue/aumenta/roomfunsionario',
+'updateRoomFunsionarioUrlPortfolio' => 'English/heyicbnmdbhulpiwf5648fyhbvjkbjvue7abklry947fgjbbvbjkfiury763gwufovbcngvsmvbie478893865385ue/update/roomfunsionario/',
+'deleteRoomFunsionarioUrlPortfolio' => 'English/heyicbnmdbhulpiwf5648fyhbvjkbjvue7abklry947fgjbbvbjkfiury763gwufovbcngvsmvbie478893865385ue/delete/roomfunsionario',
+
+];
